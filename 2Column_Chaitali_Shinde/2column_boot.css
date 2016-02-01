@@ -1,0 +1,22 @@
+	@import url(https://fonts.googleapis.com/css?family=Muli);
+
+	body{
+		font-family: 'Muli', sans-serif;
+	}
+
+	.navbar-custom{
+		background-color:#5AABEB;
+		color:black;
+	}
+	.custom-footer{
+		margin-bottom:0px;
+	}
+	.navbar-brand {
+    padding: 5px 15px;
+	}
+	.img-responsive {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
